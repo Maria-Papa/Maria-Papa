@@ -1,19 +1,16 @@
 <!-- Header Image -->
-<div style="text-align: center;">
+<p align="center">
     <img alt="GitHub Profile Header Image" src="./assets/github-header-image-1.png">
-</div>
-
-</br>
-
-<!-- Profile Badges -->
-<div style="text-align: center;">
+    </br>
+    </br>
+    <!-- Profile Badges -->
     <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=maria-papa&style=for-the-badge&color=blue">
     <img alt="GitHub User's Stars" src="https://img.shields.io/github/stars/maria-papa?style=for-the-badge&logo=github&labelColor=555555&color=yellow">
     <img alt="GitHub Followers" src="https://img.shields.io/github/followers/maria-papa?style=for-the-badge&logo=github&labelColor=555555&color=green">
     <a href="https://linkedin.com/in/papadopoulou-maria">
         <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=LinkedIn&color=0A66C2">
     </a>
-</div>
+</p>
 
 <!-- About Me Section -->
 ## 👧🏽 About me...
