@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="GitHub Profile Header Image" src="./assets/github-header-image-1.png">
+    <img alt="GitHub Profile Header Image" src="./assets/github-header-banner-4.png">
     <br><br>
     <img alt="GitHub Profile Views" src="https://komarev.com/ghpvc/?username=maria-papa&style=for-the-badge&color=blue">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/maria-papa?style=for-the-badge&logo=github&labelColor=555555&color=yellow">
